@@ -1362,7 +1362,7 @@ zelf|itself, myself
 zelf|self
 zesde|sixth
 zes|six
-zestien|sizteen
+zestien|sixteen
 zestig|sixty
 zetel|seat
 zetten|to put
